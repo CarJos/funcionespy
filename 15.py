@@ -16,6 +16,6 @@ def main():
         
     except ValueError:
         print("Error")
-a
+
 if __name__ == '__main__':
     main()
